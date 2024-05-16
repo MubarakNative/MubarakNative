@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Mubarak 
-📱Native Android developer & Embedded System Developer
+## 📱Native Android developer & ⚙️ Embedded System Developer
 - Strictly focuses on writing clean code that follows the architectural design pattern's and the SOLID Principle's
 - ⚙️ I enjoy controlling the core hardware.
+- 🌱 I'm currently learning KMP (Kotlin Multiplatform)
 
 ✨✨ **You can read my articles on [Medium](https://mubaraknative.medium.com/)**
   
