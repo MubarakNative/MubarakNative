@@ -2,7 +2,7 @@
 ## 📱Native Android developer & ⚙️ Embedded Systems Developer
 - Strictly focuses on writing clean code that follows the architectural design pattern's and the SOLID Principle's
 - ⚙️ I enjoy controlling the core hardware.
-- 🌱 I'm currently learning KMP (Kotlin Multiplatform)
+- 🌱 I'm currently working on KMP (Kotlin Multiplatform)
 
 ##
 
