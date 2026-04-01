@@ -1,9 +1,18 @@
-# Hello there, 👋
-#### [Android Developer](https://mubaraknative.github.io/) | [Technical Writer](https://medium.com/@mubaraknative) | [IoT](https://nativemb.github.io/#about)
+### Hey, I'm Mubarak 👋
 
-**I'm Mubarak Basha**, aka **[MubarakNative](https://www.google.com/search?q=MubarakNative)**, a **Native Android developer**, **FOSS Contributor**, and **Tech writer** passionate about building _real-world_ apps that are **useful** and **privacy-respecting**.
+I'm a software developer, a foss advocate, a hardware hobbyist, and someone who loves sharing
+what I've learned, if I figured something out and think it'll help someone,
+I'll write about it.
 
-I'm also committed to building a _thriving open developer community_ by publishing **professional Android development articles** on Medium and **advocating for the benefits of FOSS** on social platforms.
+I believe software should be free, open, and respect the people who use it.
+
+That's why everything I build is open source: no ads, no tracking, no lock-in.
+
+---
+
+> *Free as in freedom.*
+
+🌐 [mubaraknative.github.io](https://mubaraknative.github.io)
 
 ---
 
