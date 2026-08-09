@@ -1,8 +1,10 @@
 name: Latest blog post workflow
+
 on:
   schedule:
-    - cron: '0 0 * * 0'  # weekly every sunday 00:00 UTC
+    - cron: '0 0 * * 0' # Every Sunday at 00:00 UTC
   workflow_dispatch:
+
 permissions:
   contents: write
 
@@ -10,9 +12,11 @@ jobs:
   update-readme-with-blog:
     name: Update README with latest Medium posts
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Pull in Medium posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
