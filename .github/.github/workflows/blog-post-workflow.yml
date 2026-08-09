@@ -1,0 +1,22 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # weekly every sunday 00:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@mubaraknative"
+          max_post_count: 10
+          template: "- [$title]($url) : $date"
+          date_format: "mmm dd, yyyy"

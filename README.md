@@ -1,12 +1,10 @@
 ### Hey, I'm Mubarak 👋
 
-I'm a software developer, a foss advocate, a hardware hobbyist, and someone who loves sharing
-what I've learned, if I figured something out and think it'll help someone,
-I'll write about it.
+I'm an Android developer working primarily with Kotlin, Jetpack Compose, and modern Android architecture. I'm also constantly exploring backend systems, IoT, and anything else that sparks my curiosity, always learning, experimenting, and building along the way.
 
-I believe software should be free, open, and respect the people who use it.
+Whenever I figure something out that I think might help someone else, I write about it and share what I've learned.
 
-That's why everything I build is open source: no ads, no tracking, no lock-in.
+I try to keep everything I build open source,  no ads, no tracking, no lock-in.
 
 ---
 
@@ -16,50 +14,22 @@ That's why everything I build is open source: no ads, no tracking, no lock-in.
 
 ---
 
-<h3 align="center"> Contributions </h2>
+### Latest Blog Posts
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://medium.com/@mubaraknative">
-        <img src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=medium&logoColor=white" /> 
-      </a>
-    </td>
-    <td>Publishing professional Android development content</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/MubarakNative?tab=repositories">
-        <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" /> 
-      </a>
-    </td>
-    <td>Actively contributing to Android & FOSS projects</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://hackaday.io/MubarakNative">
-        <img src="https://img.shields.io/badge/Electronics%20-32db84?style=for-the-badge&logo=robot&logoColor=white" /> 
-      </a>
-    </td>
-    <td>Sharing open-source electronics & IoT projects</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://mubaraknative.github.io/">
-        <img src="https://img.shields.io/badge/Portfolio-45CCDE?style=for-the-badge&logo=GoogleChrome&logoColor=white" /> 
-      </a>
-    </td>
-    <td>Explore more of my work</td>
-  </tr>
-</table>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+
+More on [Medium](https://mubaraknative.medium.com)
 
 ---
 
-## 💬Reach Out
+### 💬 Connect
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4ec253?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mubaraknative.github.io/)
-[![Mail](https://img.shields.io/badge/-Mail%20-45CCDE?style=for-the-badge&logo=gmail)](mailto:dev.mubarakbasha@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MubarakNative)
+[![Medium](https://img.shields.io/badge/-Medium-cf4464?style=for-the-badge&logo=Medium)](https://mubaraknative.medium.com)
+[![Electronics](https://img.shields.io/badge/-Hackaday-32db84?style=for-the-badge&logo=robot&logoColor=white)](https://hackaday.io/MubarakNative)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-cf8744?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/MubarakNative/)
 [![Twitter](https://img.shields.io/badge/-Twitter-b544cf?style=for-the-badge&logo=twitter)](https://twitter.com/MubarakNative)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-cf8744?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/MubarakNative/)
-[![Medium](https://img.shields.io/badge/-Medium-cf4464?style=for-the-badge&logo=Medium)](https://medium.com/@mubaraknative)
+[![Mail](https://img.shields.io/badge/-Mail%20-45CCDE?style=for-the-badge&logo=gmail)](mailto:dev.mubarakbasha@gmail.com)
