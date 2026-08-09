@@ -21,7 +21,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@mubaraknative"
-          max_post_count: 5
+          max_post_count: 10
           template: "$newline- [$title]($url) : $date"
           tag_post_pre_newline: "true"
           date_format: "mmm dd, yyyy"
